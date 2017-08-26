@@ -1,4 +1,4 @@
 function paragraphSelector() {
-  var arr = $('<p>');
+  var arr = $('p');
   return arr;
 }
